@@ -1,5 +1,9 @@
+import "./Button.css";
+
 const Button = () => {
-  return <button>My first custom react button</button>;
+  return (
+    <button className="custom-button">My first custom react button</button>
+  );
 };
 
 export default Button;
