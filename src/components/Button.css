@@ -1,0 +1,8 @@
+.custom-button {
+  padding: 2rem;
+  background: bisque;
+  border-radius: 5px;
+  font-size: 2rem;
+  margin: 1rem;
+  display: block;
+}
